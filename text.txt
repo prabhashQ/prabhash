@@ -1,0 +1,67 @@
+this is python file
+
+introduction to python
+
+sep, end operator with print function
+comment
+variable 
+datatypes:
+    int
+    float
+    string
+    list
+    tuple 
+    set 
+    frozenset
+    dictionary
+    boolean
+    complex
+
+conditional programming(if else)
+    normal if else
+    nested if else
+    turnory operator
+
+loops
+    for loop 
+        simple for loop
+        nested for loop
+
+        keywords:
+            continue
+            break 
+            pass
+
+        comprehension:
+            list
+            set 
+            dictionary
+            tuple comprehension(it build generator)
+
+    while loop
+        simple while loop
+        nested while loop
+
+function
+    def function
+        simple function
+        nested function
+        decorators
+        keywords:
+            return 
+            pass
+
+    lambda function(annonymous function)
+
+OOPS:(Object oriented programming)
+    class(Blueprint)
+        instance variable
+        class variable
+
+    Object: class instanciation
+    
+    abstraction
+    encapsulation
+    polymorphism
+    inheritance
+
